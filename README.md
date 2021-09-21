@@ -36,7 +36,7 @@ To get a local copy up and running:
 
 1. Clone the repo
    ```sh
-   https://github.com/me50/sajustsmile.git
+   https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work.git
    ```
 2. Download .zip file and view unzipped file on localhost
 
