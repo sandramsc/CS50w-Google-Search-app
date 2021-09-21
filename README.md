@@ -44,7 +44,10 @@ To get a local copy up and running:
 ## Link to Demo : [YouTube](https://youtu.be/qowzXPWyZF0)
 
 ### Licence
-?Licence=plastic=MIT
+{
+    "license" : "MIT",
+    "url": "https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work/blob/main/LICENSE"
+}
 
 
 
