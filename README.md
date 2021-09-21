@@ -44,7 +44,9 @@ To get a local copy up and running:
 ## Link to Demo : [YouTube](https://youtu.be/qowzXPWyZF0)
 
 ### Licence
-[![license](https://img.shields.io/github/license/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work.svg?style=flat-square)](https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work/blob/main/LICENSE)
+<a href="https://gitlicense.com/license/:sajustsmile/:CS50w-Google-Search-app--HTML-CSS-workrepo">
+    <img src="https://gitlicense.com/badge/:sajustsmile/:CS50w-Google-Search-app--HTML-CSS-work"/>
+</a>
 
 
 
