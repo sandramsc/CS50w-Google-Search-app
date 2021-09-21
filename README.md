@@ -44,7 +44,8 @@ To get a local copy up and running:
 ## Link to Demo : [YouTube](https://youtu.be/qowzXPWyZF0)
 
 ### Licence
-[![license](https://img.shields.io/github/license/sajustsmile/captain-n3m0.svg?style=flat-square)](https://github.com/sajustsmile/captain-n3m0/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work
+.svg?style=flat-square)](https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work/blob/main/LICENSE)
 
 
 
