@@ -16,15 +16,10 @@
 * Query Text: on the Google Search page, the user is able to type in a query, click “Google Search”, and be taken to the Google search results for that page.
 * Query Images: on the Google Image Search page, the user is able to type in a query, click a search button, and be taken to the Google Image search results for that page.
 * Query Advanced: on the Google Advanced Search page, the user is able to provide input for the following four fields:
-
-Fields|
---------------|
-Find pages with… “all these words:”|
-Find pages with… “all these words:”
-Find pages with… “this exact word or phrase:”
-Find pages with… “any of these words:”
-Find pages with… “none of these words:”
-
+- Find pages with… “all these words:”
+- Find pages with… “this exact word or phrase:”
+- Find pages with… “any of these words:”
+- Find pages with… “none of these words:”
 * Appearance: the four options are stacked vertically, and all of the text fields are left aligned.
 * Lucky: an “I’m Feeling Lucky” button on the main Google Search page. 
 * Aesthetics: the CSS closely matches Google’s own aesthetics.
@@ -49,8 +44,8 @@ To get a local copy up and running:
 ## Link to Demo : [YouTube](https://youtu.be/qowzXPWyZF0)
 
 ### Licence
-[![license](https://img.shields.io/github/license/https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work
-.svg?style=flat-square)](https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work.svg?style=flat-square)](https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work/main/LICENSE)
+
 
 
 
