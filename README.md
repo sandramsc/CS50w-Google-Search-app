@@ -46,9 +46,6 @@ To get a local copy up and running:
    ```
 2. Download .zip file and view unzipped file on localhost
 
-<!-- USAGE EXAMPLES -->
-## Link to Demo : [YouTube](https://youtu.be/qowzXPWyZF0)
-
 ### Licence
 [![GitLicense](https://gitlicense.com/badge/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work)](https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work/blob/main/LICENSE)
 
