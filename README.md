@@ -42,7 +42,7 @@ To get a local copy up and running:
 
 1. Clone the repo
    ```sh
-   https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work.git
+   https://github.com/sandramsc/CS50w-Google-Search-app--HTML-CSS-work.git
    ```
 2. Download .zip file and view unzipped file on localhost
 
@@ -51,7 +51,7 @@ To get a local copy up and running:
 ## Link to Demo : [YouTube](https://youtu.be/-cJU05OXvCE)
 
 ### Licence
-[![GitLicense](https://gitlicense.com/badge/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work)](https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work/blob/main/LICENSE)
+[![GitLicense](https://gitlicense.com/badge/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work)](https://github.com/sandramsc/CS50w-Google-Search-app--HTML-CSS-work/blob/main/LICENSE)
 
 
 
