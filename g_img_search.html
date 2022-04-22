@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 <!DOCTYPE html>
 <html lang="en">
     <head>
